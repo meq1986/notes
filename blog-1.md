@@ -37,6 +37,63 @@ Markov 机器人导致的服务崩溃
 本文作者，观点较为悲观。  认为技术带来的变革，会让很多观念瓦解。  
 而我相信，艺术终会抚平科技给人类社会带来的创伤。  
 
+**2022-10-28**
+## 4. [Advice That Actually Worked For Me](https://nabeelqu.co/advice)
+
+> I’m a big fan of “advice posts” and productivity guides.  
+
+这一类的文章 叫做 advice posts , productivity guides  
+建议类 效率类  
+
+> 1. Maximize your baseline energy levels.  
+
+精力的底线，是可以提升的。  
+精力可以自我合成。  
+如果一大早完成了一件重要的事情，那么你这一天都精力充沛。  
+好的开始，会让精力boost.   
+
+一般认为，精力像容器，越用越少。  
+对于体力，应该是这样。而精神精力，有点不同。  
+把精力首先花在重要的事情上，那么会创造一个正向积极的循环。  
+而把精力花在拖延，玩社交媒体，那么会形成负循环。  
+
+重要的事情往往比较困难，让人却步。  
+而建立正向循环又是必要的。  
+可以先从小的事情开始准备，一步步建立正向循环。  
+比如，削铅笔，整理桌面，不去考虑计划整体而just do it.  
+
+> 2. Do the most important thing first thing in the morning, and don’t check social media until you’ve done it.  
+
+> 3. Tell the right stories about yourself.   
+
+即自我暗示，告诉自己疲倦是暂时的，疲倦是暂时的，反复几遍，最后真的就不困了。  
+
+> 4. Don’t sleep too much.  
+
+> 5. Get in the habit of Fermi estimation, looking up key quantities, and using upper and lower bounds.   
+
+Fermi estimation: estimating the rough order of magnitude of an unknown quantity using information that you already know.   
+根据已知的信息，粗略估算一个数量级。（order of magnitude）  
+
+对常见的数量级，单位，要有粗略的认识。  
+比如，人口规模。以前做过这方面的专题收集。  
+另外，概率计算，也是常用的方法。  
+避免被忽悠。  
+
+> 6. Whenever you make a claim or an argument, try and imagine the strongest possible argument against it.   
+
+> 7. Write regularly, and learn to ‘think in writing’.    
+
+> 8. Do a weekly review.   
+
+> 9. Synthesize things as you read.   
+
+> 10. Map out problems using logic trees.  
+
+大意是对一个概念、问题，层层分解，分解成子问题，子概念。  
+再继续分析，分解。  
+实际工作中，这也是常用的学习、分析方法。  
+
 
 
 
