@@ -95,10 +95,20 @@ Fermi estimation: estimating the rough order of magnitude of an unknown quantity
 实际工作中，这也是常用的学习、分析方法。  
 
 
+## 5. [The Bullshit Web](https://pxlnv.com/blog/bullshit-web/)
 
+> It is just this lack of connection to a concern with truth — this indifference to how things really are — that I regard as of the essence of bullshit.
 
+> building wider roads doesn’t improve commute times, as it simply encourages people to drive more
 
+网络发展，带宽增加了，但网页的打开速度并没有变快。  
+原因是网站加载了很多不必要的东西，多余的字体，样式，广告，脚本，框架等等。  
+把路修的更宽，并没有改善通勤状况。因为这使人们更愿意乘车出行，路上的车更多了。  
 
+后续第2，3节， 未读。  
+大意，吐槽现代web的冗余，不必要的花俏。  
+
+网络文摘，blog，篇幅有限，内容也难深入。不宜花太多的时间在这里。
 
 
 
