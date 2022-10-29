@@ -110,6 +110,23 @@ Fermi estimation: estimating the rough order of magnitude of an unknown quantity
 
 网络文摘，blog，篇幅有限，内容也难深入。不宜花太多的时间在这里。
 
+**2022-10-29**
+
+## 6. [The Iran Firewall - A preliminary report](https://blog.thc.org/the-iran-firewall-a-preliminary-report)
+
+伊朗人民反对政府的运动，需要互联网。  
+但伊朗政府却运用各种手段，封锁互联网，阻止人民通讯。  
+
+有一点值得注意，
+> China is involved.   
+> China breach sanctions by providing the GFI as a service  
+中国居然对伊朗政府提供技术支持？ 不知有没有确切的证据。  
+如果是事实，实在太丢人了。  
+
+v2ray shadowsockets tor等等，在伊朗也还是有效的翻墙技术。  
+
+
+
 
 
 
