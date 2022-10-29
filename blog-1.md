@@ -118,8 +118,10 @@ Fermi estimation: estimating the rough order of magnitude of an unknown quantity
 但伊朗政府却运用各种手段，封锁互联网，阻止人民通讯。  
 
 有一点值得注意，
+
 > China is involved.   
 > China breach sanctions by providing the GFI as a service  
+
 中国居然对伊朗政府提供技术支持？ 不知有没有确切的证据。  
 如果是事实，实在太丢人了。  
 
