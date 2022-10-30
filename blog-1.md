@@ -127,6 +127,53 @@ Fermi estimation: estimating the rough order of magnitude of an unknown quantity
 
 v2ray shadowsockets tor等等，在伊朗也还是有效的翻墙技术。  
 
+**2022-10-30**
+
+## 7. [Addiction to Ideas: How to Break the Cycle](https://colleenrobb.com/2017/03/18/addiction-to-ideas-how-to-break-the-cycle/)
+
+> Don’t get me wrong, I still love an idea, but I’ve learned that moderation and temperance take precedent over an addiction to an idea.
+
+> The biggest lesson I’ve learned on my journey is: How to tell an idea is any good? The answer is TRACTION.
+
+作者对商业idea很上瘾，但久之，却愈加保持moderation和temperance  
+中立态度，温和立场。  
+
+本以为这是一个有关心理的hack分析，读到文末发现作者意在介绍一种工具，landing page.  
+landing page，即引导页，着陆页，有点类似一句话海报等等。  
+
+文摘存量多，且与日俱增，每每开始阅读，总想迅速过关斩将，消化库存。  
+再告诫自己，慢一点，不着急。   
+先质量，再数量。  
+
+## 8. [Infographics: Operation Costs in CPU Clock Cycles](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
+
+ALU/FPU Operations  
+- “Simple” Operations, 如ADD,MOV,OR, 可以在小于1个CPU cycle内完成；  
+- Integer Multiplication/Division
+- Floating-Point Operations
+- 128-bit Vector Operations
+- Bypass Delays
+
+Branching
+- Branch  (an if within your program) is essentially a comparison, plus a change in the program counter. While both these things are simple, there can be a significant cost associated with branching.
+
+Memory Access
+- Back in 80s, CPU speed was comparable with memory latency (for example, Z80 CPU, running at 4MHz, spent 4 cycles on a register-register instruction, and 6 cycles on a register-memory instruction). 
+- CPU访问寄存器，与访问内存，以前相差不大，但现在不同了。
+- CPU的速度快，内存速度跟不上，于是引入3级缓存 L1 L2 L3
+-  access L1/L2/L3 times at 4/12/44 CPU cycles respectively
+
+Software Primitives
+- C/C++ Function Calls
+- Indirect and Virtual Calls
+- Thread Context Switches , at least 10000 CPU cycles
+
+对于不同的操作，硬件，软件，给出大概的CPU时钟周期数。  
+可以用于程序性能调优等等。  
+文中所用的指令分类方法，如hardware,software, 等等，有启发性。  
+
+Memory Access一节，重温了一个知识点，Memory Hierarchy，金字塔形。  
+可另作专题，复习之。  
 
 
 
