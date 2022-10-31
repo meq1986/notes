@@ -175,10 +175,21 @@ Software Primitives
 Memory Access一节，重温了一个知识点，Memory Hierarchy，金字塔形。  
 可另作专题，复习之。  
 
+**2022-10-31**
 
+## 9. [Computer science as a lost art ](https://rubyhacker.com/blog2/20150917.html)
 
+> Conway’s Law is important in the context of organization and software development. It states that the architecture of a system represents the communication structures of the organization that implements the system.   
+大意是，计算机这一门学科被低估了。  
+很多人会用工具，会敲代码，即认为自己是计算机工程师了。  
 
+>  But two or three things have happened. First of all, computers are pretty much universal now. Do you know anyone under 80 who doesn't have one? Second, the World Wide Web (born in 1989 as a "face" on the more bare-bones Internet) started being invaded by the general public in 1995 or so. As usage became more common, it became more important to everyday life. And third, the tools we use to create applications have gotten a bit more sophisticated. It's easier to use these tools, just as it's easier to drive a car now than it was in 1905. 
 
+- www是因特网的脸面， 因特网本来是没有这个脸面的。
+
+一点启示
+- 计算机科学，内涵比看到的要丰富的多。
+- 去阅读计算机文化，周边，历史， 也能够加深对计算机科学的认识。
 
 
 
