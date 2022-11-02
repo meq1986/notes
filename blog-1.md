@@ -201,6 +201,24 @@ Memory Access一节，重温了一个知识点，Memory Hierarchy，金字塔形
 - 李维斯对牛仔裤的一个创举，就是铆钉的应用，这使得帆布不会被外力撕开。
 - 牛仔裤的历史，从中可见美国的历史，能看到经济发展，种族歧视，移民，排华。。。
 
+## 10. [BYOPM – Bring Your Own Password Manager](https://novamostra.com/2022/10/23/byopm/)
+
+利用树莓派+开源的BitWarden 构建即插即用的密码服务  
+- 树莓派可以作为网卡 接入电脑即显示新网卡
+- 可以给树莓派 套一个外壳 可以3D打印
+- 树莓派 安装linux 部署docker nginx 
+- 结合firefox的bitwarden插件 
+
+TODO
+- 树莓派 hack
+- bitwarden
+
+
+
+
+
+
+
 
 
 
