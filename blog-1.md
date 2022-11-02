@@ -191,6 +191,15 @@ Memory Access一节，重温了一个知识点，Memory Hierarchy，金字塔形
 - 计算机科学，内涵比看到的要丰富的多。
 - 去阅读计算机文化，周边，历史， 也能够加深对计算机科学的认识。
 
+**2022-11-02**
+
+## 10. [Cache of 19th-Century Blue Jeans Discovered in Abandoned Arizona Mineshaft](https://www.smithsonianmag.com/history/cache-of-19th-century-blue-jeans-discovered-in-abandoned-arizona-mineshaft-180981014/)
+
+要点
+- 废弃的矿井 发现了几条19世纪的牛仔裤， 拍卖出了天价；
+- 李维斯 是牛仔裤的发明公司，迄今还运营着；
+- 李维斯对牛仔裤的一个创举，就是铆钉的应用，这使得帆布不会被外力撕开。
+- 牛仔裤的历史，从中可见美国的历史，能看到经济发展，种族歧视，移民，排华。。。
 
 
 
