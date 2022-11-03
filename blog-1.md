@@ -213,6 +213,20 @@ TODO
 - 树莓派 hack
 - bitwarden
 
+## 11. [Repeat After Me: It’s Normal to Play the Same Song Over and Over Again](https://www.kqed.org/arts/11523994/repeat-after-me-its-normal-to-play-the-same-song-over-and-over-again)
+
+> So for Hadid, familiarity ultimately breeds contempt, a cycle that Margulis touches on in On Repeat, when she writes that re-listening to songs “increases pleasure for a certain period and then reduces it. The relationship between exposure and enjoyment, in other words, is nonlinear.”
+
+重复听歌，在一段时间内可以增加快乐，但过后会降低。 听歌的时间和快乐，并非是线性的。
+
+> As Margulis puts it in her academic way, repetition has a way of “fostering an intimate connection to the music while bypassing conceptual cognition and allowing the sound to seem ‘lived’ rather than ‘perceived.’”
+
+重复的听歌，加强了某种内部联系。 大脑不再去认知歌曲内容，而歌曲仿佛住在了大脑中，不再需要去动脑了。  
+一个启示是， 可以选取一些歌曲作为白噪音， 重复听，大脑习惯了，就可以作为隔音墙。
+
+> But repetition can be a contradiction both for musicians and those of us who listen on repeat. Many musicians, especially as they get older, don’t like playing their big hits over and over again.
+
+一些音乐家，晚年都不再演奏自己的成名作品。
 
 
 
