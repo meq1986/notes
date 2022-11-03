@@ -222,14 +222,26 @@ TODO
 > As Margulis puts it in her academic way, repetition has a way of “fostering an intimate connection to the music while bypassing conceptual cognition and allowing the sound to seem ‘lived’ rather than ‘perceived.’”
 
 重复的听歌，加强了某种内部联系。 大脑不再去认知歌曲内容，而歌曲仿佛住在了大脑中，不再需要去动脑了。  
-一个启示是， 可以选取一些歌曲作为白噪音， 重复听，大脑习惯了，就可以作为隔音墙。
+一个启示是  
+可以选取一些歌曲作为白噪音， 重复听，大脑习惯了，就可以作为隔音墙。
 
 > But repetition can be a contradiction both for musicians and those of us who listen on repeat. Many musicians, especially as they get older, don’t like playing their big hits over and over again.
 
 一些音乐家，晚年都不再演奏自己的成名作品。
 
+## 12. [Laundry at the End of the World](https://brr.fyi/posts/laundry-at-the-end-of-the-world)
 
+在南极科考站，用洗衣机洗衣服。  
+没有什么特别的，洗衣机跟其他地方的都一样，但这却是在南极洲。  
 
+> But a majority of the day here is just doing the things you’d have to do elsewhere. Personally I love the combination of the extraordinary context mixed with the mundane reality, and maybe other people will love it too. Laundry, in Antarctica. Cleaning, in Antarctica. Paperwork, in Antarctica.
+
+每天作者都需要做一些非同寻常的事情，还有一些枯燥的现实。  
+比如洗衣打扫，写论文等等。  
+
+文章内容也没有特别之处。 对于洗衣机，也这是强调运输到南极洲的困难。  
+摘录此文，在于作者细腻的心思，写寻常之事。  
+英语小品文。  
 
 
 
