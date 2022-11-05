@@ -255,7 +255,20 @@ TODO
 
 >　The total absence of sleep is more fatal for the animals than the total absence of food
 
-## 15. []()
+## 15. [From Google to Twitter (initial thoughts)](https://ma.nu/blog/from-google-to-twitter)
+
+一个工程师，从谷歌跳槽到推特。  
+
+一些体验，挑一些有意思的摘录如下：  
+
+谷歌所有的工具都自己写，如日历，邮件，代码评审等等  
+推特，几乎各种工具都从外部引进；  
+
+推特90%以上的员工都使用苹果电脑，而苹果电脑不是开源的。  
+对于工程师而言，linux往往是最好的选择。
+
+谷歌的工作电脑很多都上云了，  
+而推特的工作电脑还是重量级的data center.
 
 ## 16. []()
 
