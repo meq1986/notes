@@ -201,7 +201,7 @@ Memory Access一节，重温了一个知识点，Memory Hierarchy，金字塔形
 - 李维斯对牛仔裤的一个创举，就是铆钉的应用，这使得帆布不会被外力撕开。
 - 牛仔裤的历史，从中可见美国的历史，能看到经济发展，种族歧视，移民，排华。。。
 
-## 10. [BYOPM – Bring Your Own Password Manager](https://novamostra.com/2022/10/23/byopm/)
+## 11. [BYOPM – Bring Your Own Password Manager](https://novamostra.com/2022/10/23/byopm/)
 
 利用树莓派+开源的BitWarden 构建即插即用的密码服务  
 - 树莓派可以作为网卡 接入电脑即显示新网卡
@@ -213,7 +213,9 @@ TODO
 - 树莓派 hack
 - bitwarden
 
-## 11. [Repeat After Me: It’s Normal to Play the Same Song Over and Over Again](https://www.kqed.org/arts/11523994/repeat-after-me-its-normal-to-play-the-same-song-over-and-over-again)
+**2022-11-03**
+
+## 12. [Repeat After Me: It’s Normal to Play the Same Song Over and Over Again](https://www.kqed.org/arts/11523994/repeat-after-me-its-normal-to-play-the-same-song-over-and-over-again)
 
 > So for Hadid, familiarity ultimately breeds contempt, a cycle that Margulis touches on in On Repeat, when she writes that re-listening to songs “increases pleasure for a certain period and then reduces it. The relationship between exposure and enjoyment, in other words, is nonlinear.”
 
@@ -229,7 +231,7 @@ TODO
 
 一些音乐家，晚年都不再演奏自己的成名作品。
 
-## 12. [Laundry at the End of the World](https://brr.fyi/posts/laundry-at-the-end-of-the-world)
+## 13. [Laundry at the End of the World](https://brr.fyi/posts/laundry-at-the-end-of-the-world)
 
 在南极科考站，用洗衣机洗衣服。  
 没有什么特别的，洗衣机跟其他地方的都一样，但这却是在南极洲。  
@@ -243,8 +245,31 @@ TODO
 摘录此文，在于作者细腻的心思，写寻常之事。  
 英语小品文。  
 
+**2022-11-05**
 
+## 14. [The Sleep Debt Collector Is Here](https://archive.ph/4Nr4M)
 
+> But a review article published recently in the journal Trends in Neurosciences contends that the folk concept of sleep as something that can be saved up and paid off is bunk. 
+
+认为睡眠可以补偿，可以积攒的观点，是错的；  
+
+>　The total absence of sleep is more fatal for the animals than the total absence of food
+
+## 15. []()
+
+## 16. []()
+
+## 17. []()
+
+## 18. []()
+
+## 19. []()
+
+## 20. []()
+
+## . []()
+## . []()
+## . []()
 
 
 
