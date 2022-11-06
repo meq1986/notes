@@ -270,7 +270,43 @@ TODO
 谷歌的工作电脑很多都上云了，  
 而推特的工作电脑还是重量级的data center.
 
-## 16. []()
+**2022-11-06**
+
+## 16. [THE HISTORY OF USER INTERFACES](https://history.user-interface.io/)
+
+Xerox Alto, 1973
+- 第一台支持GUI操作系统的计算机
+- Xerox  是一家公司， 中文名 施乐
+- 外设有鼠标 键盘， GUI有窗体， 滚动条
+- 有 图标概念
+- 有菜单，最小化最大化关闭窗体
+- GUI 黑白色调 无彩色
+
+
+Xerox Star 1981  
+> Including a bitmapped display, a window-based graphical user interface, icons, folders, mouse (two-button), Ethernet networking, file servers, print servers, and e-mail.  
+
+- 有回收站，文件夹
+
+
+Apple Lisa 1983   
+
+VisiCorp Visi On , 1983
+- 出现了word process
+- 影响后来的 Microsoft Windows
+
+Windows 1.0 , 1985
+- 微软的第一个图形化桌面操作系统
+
+Windows 3.0 ， 1990
+- 已经非常接近今天的windows UI风格了
+- 控制面板， 罗列各种设置项目， 特别熟悉
+
+KDE 1.0 ,  1998
+- linux系的桌面， 居然产生的这么晚
+
+GNOME 1.0  ， 1999
+
 
 ## 17. []()
 
