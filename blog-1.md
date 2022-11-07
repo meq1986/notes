@@ -308,9 +308,47 @@ KDE 1.0 ,  1998
 GNOME 1.0  ， 1999
 
 
-## 17. []()
+## 17. [为什么世界上没有安全的工作？](http://survivor.ruanyifeng.com/collapse/safe-job.html)
 
-## 18. []()
+计算机技术行业有自己的特殊性，更新换代比其他行业要快。  
+一项技术，比如flash，塞班开发，都发生过消亡的情况。  
+
+亲身的体会  
+- 学过华为内部的框架i2000,c3, 但离开华为，这些技术就无用了；
+- 学过oracle ， plsql开发， 换一家公司又无用了；
+- 花了不少时间学习bsp交易系统，但两个月后该系统废弃了；
+
+作为技术人，应该要有拿得起，放得下的心态    
+- 拿得起， 任何新技术， 抱有谦卑心态， 拥抱学习；
+- 放得下， 期望精通某样技术，花费大量时间， 这种方法要慎之又慎；
+
+
+
+## 18. [6 .NET Myths Dispelled — Celebrating 21 Years of .NET](https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27)
+
+6个关于.net的成见
+- .NET is for Windows
+- It’s slower than Node/Python/Go/Rust
+- It’s a legacy platform
+- The tooling is expensive
+- .NET isn’t open source friendly
+- It’s for boomer enterprise development
+
+> Today, .NET 6 — the most current .NET — runs on Windows, Linux, and macOS with support for x86, x64, Arm32, and Arm64.  
+
+这个确实刷新了我的认知，.net居然支持各种cpu架构，还支持linux和macos   
+
+> Yes; it is a great platform for enterprise development used in banks, finance, insurance, defense, enterprise content management, and cloud-scale backends. This is a Good Thing™ in my book as it means that you get all of the security and performance benefits of a platform that’s deployed to support mission critical workloads.  
+
+> Very few languages are as accessible as C# while being able to build applications for virtually any use case from desktop to devices to web servers to 3D games.  
+
+> With .NET 6 minimal APIs, Microsoft moves .NET closer to the realm of traditionally more accessible languages and runtimes such as Go, Python, and Node.js and makes it far more approachable for hobbyists and weekend hackers.   
+ 
+从以上几段引用，一些认识
+- 企业级应用，如银行，金融，保险，军工等等，技术架构有特殊性，往往需要平台框架级别的特性支持；
+- 广泛的应用领域 从桌面到终端设备，web服务器到3d游戏， 计算机应用的领域是宽广的；
+- 对于hacker，短小精悍的语言特性是很重要的， 传统的python, 就有这个特点；
+
 
 ## 19. []()
 
