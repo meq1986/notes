@@ -349,8 +349,40 @@ GNOME 1.0  ， 1999
 - 广泛的应用领域 从桌面到终端设备，web服务器到3d游戏， 计算机应用的领域是宽广的；
 - 对于hacker，短小精悍的语言特性是很重要的， 传统的python, 就有这个特点；
 
+**2022-11-09**
 
-## 19. []()
+## 19. [Ten Lessons I wish I had been Taught](https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html#blackboard)
+
+
+这是一篇会议的演讲稿，作者是个数学教授。  
+他给出了几条建议，有关 教学，科研等等。  
+
+1. Lecturing
+1. Blackboard Technique
+1. Publish the same results several times.
+1. You are more likely to be remembered by your expository work.
+1. Every mathematician has only a few tricks.
+1. Do not worry about your mistakes.
+1. Use the Feynmann method.
+1. Give lavish acknowledgments.
+1. Write informative introductions
+1. Be prepared for old age.
+
+> a. Every lecture should make only one main point The German philosopher G. W. F. Hegel wrote that any philosopher who uses the word "and" too often cannot be a good philosopher. 
+
+每节课应该只有一个主题。  
+
+> I often meet, in airports, in the street and occasionally in embarrassing situations, MIT alumni who have taken one or more courses from me. Most of the time they admit that they have forgotten the subject of the course, and all the mathematics I thought I had taught them. However, they will gladly recall some joke, some anecdote, some quirk, some side remark, or some mistake I made. 
+
+MIT高材生也是学了就忘，记住了那些八卦好玩的事儿。
+
+> Nowadays, reading a mathematics paper from top to bottom is a rare event. If we wish our paper to be read, we had better provide our prospective readers with strong motivation to do so.
+
+数学论文，从头读到尾，是很难得的。
+
+一个比较有趣的结论，每个数学家的本事就那么点。  
+作者发现，即使大名鼎鼎的数学家，他的理论trick也就那么几个，来来回回的反复用。  
+所以，什么艰深的理论，没什么好怕的。  
 
 ## 20. []()
 
