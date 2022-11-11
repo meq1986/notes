@@ -384,7 +384,27 @@ MIT高材生也是学了就忘，记住了那些八卦好玩的事儿。
 作者发现，即使大名鼎鼎的数学家，他的理论trick也就那么几个，来来回回的反复用。  
 所以，什么艰深的理论，没什么好怕的。  
 
-## 20. []()
+**2022-11-11**
+
+## 20. [You and your research ](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
+
+> Hard work is a trait that most great scientists have. Edison said that genius was 99% perspiration and 1% inspiration. Newton said that if others would work as hard as he did then they would get similar results. Hard work is necessary but it is not sufficient. Most people do not work as hard as they easily could. However, many who do work hard -- work on the wrong problem, at the wrong time, in the wrong way, and have very little to show for it. 
+
+爱迪生的名言，天生99%汗水的格言； 牛顿的格言；  
+勤奋固然重要，但方向的重要性不容忽视。  
+
+> The first person to produce definitive results generally gets all the credit. Those who come in second are soon forgotten. Thus working on the problem at the right time is essential. Einstein tried to find a unified theory, spent most of his later life on it, and died in a hospital still working on it with no significant results. Apparently, he attacked the problem too early, or perhaps it was the wrong problem. 
+
+爱因斯坦晚年意图统一物理理论，但是至死都没有成功。  
+或许，这个方向就是错误的。  
+
+读至此，文章大意还不是非常明确。  需集中精力时间好好研读。 good attack  
+一个启示，要把精力放在重要的事情上。  
+收集的一些文章，比如科技新闻，新产品等等，保持清醒的警惕，不要花太多的时间在这里。  
+
+方法的思考  
+文章收集，再泛读精度，这个方法实施了有一段时间了。  
+一个问题值得思考，什么样的文章值得精读，什么样的文章泛读。  
 
 ## . []()
 ## . []()
