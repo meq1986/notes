@@ -388,6 +388,23 @@ MIT高材生也是学了就忘，记住了那些八卦好玩的事儿。
 
 ## 20. [You and your research ](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
 
+> If you are to do important work then you must work on the right problem at the right time and in the right way. Without any one of the three, you may do good work but you will almost certainly miss real greatness. 
+
+想要成就有价值的事情： 
+- 研究对的问题
+- 在对的时间
+- 用对的方法
+
+> To illustrate, consider my experience at BTL. For the first few years I ate lunch with he mathematicians. I soon found that they were more interested in fun and games than in serious work, so I shifted to eating with the physics table. There I stayed for a number of years until the Nobel Prize, promotions, and offers from other companies, removed most of the interesting people. So I shifted to the corresponding chemistry table where I had a friend. 
+
+在贝尔实验室工作的时候，我跟数学家一伙吃饭。我发现他们喜好游戏，于是我就换桌了。 
+跟物理学家一起吃饭，再后来，我得了诺奖，换了工作，有趣的人都没了，我又和化学家一起吃饭。
+
+> There are many right problems, but very few people search carefully for them. Rather they simply drift along doing what comes to them, following the easiest path to tomorrow. Great scientists all spend a lot of time and effort in examining the important problems in their field. Many have a list of 10 to 20 problems that might be important if they had a decent attack. As a result, when they notice something new that they had not known but seems to be relevant, then they are prepared to turn to the corresponding problem, work on it, and get there first. 
+
+有价值的问题，不是没有，而是大多数人都随波逐流，忽略了。
+优秀的科学家，总会有一个list，是他们认为有价值的问题，当有灵感时，就可能会解决这些问题。
+
 > Hard work is a trait that most great scientists have. Edison said that genius was 99% perspiration and 1% inspiration. Newton said that if others would work as hard as he did then they would get similar results. Hard work is necessary but it is not sufficient. Most people do not work as hard as they easily could. However, many who do work hard -- work on the wrong problem, at the wrong time, in the wrong way, and have very little to show for it. 
 
 爱迪生的名言，天生99%汗水的格言； 牛顿的格言；  
@@ -398,17 +415,28 @@ MIT高材生也是学了就忘，记住了那些八卦好玩的事儿。
 爱因斯坦晚年意图统一物理理论，但是至死都没有成功。  
 或许，这个方向就是错误的。  
 
-读至此，文章大意还不是非常明确。  需集中精力时间好好研读。 good attack  
-一个启示，要把精力放在重要的事情上。  
-收集的一些文章，比如科技新闻，新产品等等，保持清醒的警惕，不要花太多的时间在这里。  
+全文有几个点，没有全部读完 ，太长了。  
+此类成功方法论的文章，没有耐心读完。 
 
-方法的思考  
-文章收集，再泛读精度，这个方法实施了有一段时间了。  
-一个问题值得思考，什么样的文章值得精读，什么样的文章泛读。  
+全文，似乎是一个讲稿。  
+每一段落，是个点。 许多的论点，似乎太大关联。 
+不是一个逻辑严密的文章。 
 
-## . []()
-## . []()
-## . []()
+## 21. [How to use your DSLR from 2008 as a webcam in 2022 (NixOS)](https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos)
 
+[How to use your DSLR from 2008 as a webcam in 2022 (NixOS)](https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos)
+
+作者把一个不用的单反改造成为了网络摄像头，有启发性。  
+用到了
+- gphoto2 ， 支持我的A480老型号相机，有空可以玩玩
+- ffmpeg
+
+## 22. []()
+## 23. []()
+## 24. []()
+## 25. []()
+## 26. []()
+## 27. []()
+## 28. []()
 
 
