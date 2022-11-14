@@ -424,8 +424,6 @@ MIT高材生也是学了就忘，记住了那些八卦好玩的事儿。
 
 ## 21. [How to use your DSLR from 2008 as a webcam in 2022 (NixOS)](https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos)
 
-[How to use your DSLR from 2008 as a webcam in 2022 (NixOS)](https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos)
-
 作者把一个不用的单反改造成为了网络摄像头，有启发性。  
 用到了
 - gphoto2 ， 支持我的A480老型号相机，有空可以玩玩
