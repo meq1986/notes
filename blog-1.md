@@ -435,7 +435,30 @@ MIT高材生也是学了就忘，记住了那些八卦好玩的事儿。
 当地人不但没有反感，反而觉得这个广告牌成为了当地的一个特色，吸引了很多人慕名而来。  
 现在，广告牌的主人决定停止这个举动。 20年花了好多钱。  
 
-## 23. []()
+## 23. [ Why does science news suck so much? ](http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html)
+2022-11-16
+
+为什么科技新闻令人恶心？  
+作者列了10条原因，摘录几条如下。  
+
+> 1. Show me your uncertainty estimate.  
+> I’ll start with my pet peeve which is numbers without uncertainty estimates. Example: You have 3 months left to live. Plus minus 100 years. Uncertainty estimates make a difference for how to interpret numbers. But science news quotes numbers all the time without mentioning the uncertainty estimates, confidence levels, or error bars.  
+
+科学在数字方面，总是会有不确定的估算，但是科学新闻，总是给出确定的数字。
+
+> 5. Don’t oversimplify it  
+> For many questions of science policy, there just isn’t a simple answer, there is no good solution, and sometimes the best answer we have is “we don’t know.” Sometimes all possible solutions to a problem suck and trying to decide which one is the least bad option is difficult. But science news often presents simple answers and solutions probably thinking it’ll appeal to the reader.
+
+科学新闻把答案简化了，有时问题是没有答案的。
+
+> 8. Spare me the human interest stuff  
+> A currently very common style of science writing is to weave an archetypical hero story of someone facing a challenge they have to overcome. You know, someone who encountered this big problem and they set out to solve it and but they made enemies and then they make a friend and they make a discovery but it doesn’t work and… and by that time I’ve fallen asleep. Really please just get to the point already. What’s new and how does it matter? I don’t care if the lead author is married. 
+
+编造一些引人入胜的故事，省省吧。
+
+不止科技新闻，其他的诸如技术博客，都有很多结构毛病。  
+在阅读文章时，要注意取舍。  
+
 ## 24. []()
 ## 25. []()
 ## 26. []()
