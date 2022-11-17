@@ -459,10 +459,47 @@ MIT高材生也是学了就忘，记住了那些八卦好玩的事儿。
 不止科技新闻，其他的诸如技术博客，都有很多结构毛病。  
 在阅读文章时，要注意取舍。  
 
-## 24. []()
-## 25. []()
+## 24. [The unreasonable effectiveness of just showing up everyday](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
+
+2022-11-17
+
+作者利用6年的时间，写了一个类似es的项目。  
+贵在坚持，每天都不间断。  
+
+作者对于想创业的技术人提出的一个建议 
+
+> Pick an idea in a large market that will always be in demand and work on a product that caters to a subset of use cases exceedingly well.
+
+找到一个有广泛的市场需求，确定某一类用户需求点， 然后就是坚持不懈的实现。 
+ 
+## 25. [Social Justice For The Bald Man](https://stakedy.com/long/social-justice-for-the-bald-man.html)
+
+2022-11-17
+
+> The genetics of baldness is scientifically established. If you have a certain genotype, a genotype that contains the code for going bald, and if you wait long enough, you will go bald. The fact is that going bald is a physical trait similar to eye color, tongue shape or skin tone. Much like you have no control over your original eye color, you have no control whether you end up bald. 
+
+秃顶跟肤色，眼睛颜色一样，是基因的问题。 
+
+有意思的链接的这个网站，用区块链技术，每个作者发布的帖子，都有押注stake，如果文章观点触发了某种机制，  
+就会扣除押金 slash  
+具体算法不太详解  
+
 ## 26. []()
 ## 27. []()
 ## 28. []()
 
+## 26. []()
+## 27. []()
+## 28. []()
 
+## 26. []()
+## 27. []()
+## 28. []()
+
+## 26. []()
+## 27. []()
+## 28. []()
+
+## 26. []()
+## 27. []()
+## 28. []()
