@@ -484,22 +484,67 @@ MIT高材生也是学了就忘，记住了那些八卦好玩的事儿。
 就会扣除押金 slash  
 具体算法不太详解  
 
-## 26. []()
-## 27. []()
+## 26. [ What does an idle CPU do? ](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
+
+2022-11-25
+
+> In the last post I said the fundamental axiom of OS behavior is that at any given time, exactly one and only one task is active on a CPU. 
+
+一个最基本的原理，CPU在某个时刻，仅作一个任务。  
+用户层面看到的多个应用在运行，但在底层CPU上，还是一个任务。  
+
+> It turns out that this situation is extremely common, and for most personal computers it’s actually the norm: an ocean of sleeping processes, all waiting on some condition to wake up, while nearly 100% of CPU time is going into the mythical “idle task.” In fact, if the CPU is consistently busy for a normal user, it’s often a misconfiguration, bug, or malware.
+
+一个事实是，大多数时候，操作系统中的大多数进程都在睡眠，等待某个事件发生后再唤醒；而CPU几乎100%的时间都在无所事事的“发呆？”  ； 如果CPU一直不停的工作，大概率是发生bug了，或者中病毒了。。。    
+这也有点反常识
+
+此文，说明了linux idle（空转）的一些知识。    
+注意有两个层面，一个是操作系统idle,一个是CPU idle 
+结合linux开源代码，读不懂。  
+
+## 27. [Why America Can’t Build ](https://www.palladiummag.com/2022/06/09/why-america-cant-build/)
+
+>  He went to Twitter with his frustration and began openly speculating about buying tunnel boring machines (TBMs) to drill under Los Angeles, offering to pay for the cost of adding more workers to the project. When he investigated TBM technology he discovered that it hadn’t improved in decades—a snail moves 14 times faster than the best drill. A year after his initial tweet, Musk launched the Boring Company, a tunneling technology company devoted to building TBM that can “beat the snail.”
+
+打洞的机器，居然比蜗牛还慢， 蜗牛是机器速度的14倍。  
+
+本文提出了一个问题，为什么美国在大工程的建设，效率低下。  
+粗略一扫，原因不详。 
+
 ## 28. []()
 
-## 26. []()
-## 27. []()
-## 28. []()
+## 29. []()
 
-## 26. []()
-## 27. []()
-## 28. []()
+## 30. []()
 
-## 26. []()
-## 27. []()
-## 28. []()
+## 31. []()
 
-## 26. []()
-## 27. []()
-## 28. []()
+## 32. []()
+
+## 33. []()
+## 34. []()
+## 35. []()
+## 36. []()
+## 37. []()
+## 38. []()
+## 39. []()
+## 40. []()
+
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
+## . []()
