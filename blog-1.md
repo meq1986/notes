@@ -511,9 +511,36 @@ MIT高材生也是学了就忘，记住了那些八卦好玩的事儿。
 本文提出了一个问题，为什么美国在大工程的建设，效率低下。  
 粗略一扫，原因不详。 
 
-## 28. []()
 
-## 29. []()
+2022-11-29
+
+## 28. [The Secret Art of the Family Photo](https://www.newyorker.com/culture/annals-of-inquiry/family-photos)
+
+讲述家庭摄影的一些文化   
+没有技术方面的讲述，多作者的一些感想。  
+
+> It’s often said that good photographs should “stand alone” and “speak for themselves.” But this isn’t always true, and, in fact, the truth is more like the opposite. Most photographs you come across have stories—you just don’t know them. I actually believe that the more that’s known about what a photograph shows, the more likely it is to survive. Don’t be shy about trying to record what you know about a picture, and about finding some way of keeping the picture together with its story.
+
+> Consider the possibility that a reasonable number is eight. Why so few? Because life is full, and pictures accrue. The events of life come tumbling along, and the photos pile up, like the days and the hours do. The more family pictures you amass over time without editing or “organizing” them—without keywording, without making the hard decisions about which are the best and most essential—the more chaotic, dispiriting, disorganized, unlabelled, unsearchable, and jumbled the great mass will be, and the less well any given one of them will function for its purpose. Surfeit adds up to failure; selectivity leads to success.
+
+## 29. [My awakening moment about how smartphones fragment our attention span](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/)
+
+大意，手机APP各种消息，分散了太多的注意力。  
+而注意力本身，是非常宝贵的。  
+关掉通知消息，不碰手机，APP极简，do something.  
+
+> I recently realized that absorbing the constant inflow of information from my smartphone, always readily available in my pocket to capture any free moment of attention, had fragmented my attention span.
+
+> Was I permanently rewired by tech and social media? What happened to the college me? I remember one particular week in my college undergraduate days, during a lonely spring break when the other students had gone home. I sat on our dorm couch and read through a whole stack of books (Faulkner, Aristotle, Kafka, Whitman, and more) and savored every minute of it.
+
+作者回忆大学的读书生活，还是生动的
+
+> I realized that I was looking at my phone during every spare moment of the day. When I pulled up at a stoplight waiting for the light to change, I would instinctively reach for my phone (mounted on my dash) to check my email (personal + work), check ESPN, look up something on Amazon, etc. While pumping gas in the car, I’d whip out my phone while waiting. Stuck in line somewhere? Time for my phone. Waiting in an elevator? The phone. Riding the train? The phone. Going to the bathroom? Make sure to bring the phone! Eating breakfast? The phone. Any spare or idle moment? The phone.
+
+连续的设问，同一个答案。   似排比手法，很有文字表现力。
+
+> A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities that strongly support things you value, and then happily miss out on everything else.
+
 
 ## 30. []()
 
