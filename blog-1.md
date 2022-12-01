@@ -542,7 +542,19 @@ MIT高材生也是学了就忘，记住了那些八卦好玩的事儿。
 > A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities that strongly support things you value, and then happily miss out on everything else.
 
 
-## 30. []()
+## 30.  [T H E ‘ J U S T W O R R Y I N G ’ L A B E L L I N G T E C H N I Q U E](https://www.mindmate.org.uk/wp-content/uploads/2018/11/labelling-worry1-1.pdf)
+
+2022-12-01
+
+> The ‘Just Worrying technique’ technique simply involves you labelling worry (that means, giving it a name and describing it) as ‘just worrying’ and then bringing your attention back to your breath or to simply change the subject of your thinking.  Every time you catch yourself worrying you just label it again and change the subject. It doesn’t matter if you do it 10 times in one minute or if you only realize you have been worrying after a period of 2 hours and then use the technique. The important thing is that you use the technique when you realize that you are worrying.
+
+‘Just Worrying technique’ ， 想想就算了。  
+给焦虑的事情，取一个名字，付一个概念， 然后转移注意力，比如呼吸。  
+
+> This technique involves no criticism or anger at yourself, just simple non-judgemental labelling of the thoughts you’re having. (Describing what you see, rather than getting involved with it). Therefore it is important that you do not change the label from ‘just worrying’ to ‘don’t worry’!
+
+很重要的一点是，不要去judge. 不要评价评判，卷入价值争论。 只是描述现象。  
+这根冥想的技巧很像。  
 
 ## 31. []()
 
