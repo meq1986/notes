@@ -556,7 +556,28 @@ MIT高材生也是学了就忘，记住了那些八卦好玩的事儿。
 很重要的一点是，不要去judge. 不要评价评判，卷入价值争论。 只是描述现象。  
 这根冥想的技巧很像。  
 
-## 31. []()
+## 31. [The Design of Everyday Things — Book Summary & Notes](https://elvischidera.com/2022-06-24-design-everyday-things)
+
+有关设计的专业总结  
+书摘，论点比较多，不做细读。  
+摘录若干精辟的点。  
+
+> Good design is harder to notice than poor design, partly because good designs fit our needs so well that the design is invisible, serving us without drawing attention to itself.
+> Bad design screams out its inadequacies, making itself very noticeable.
+
+好的设计，看不见，甚至觉察不到他的存在。  
+而坏的设计，大叫大嚷，时时刻刻提醒着他的存在。  
+放在人身上，似乎也说的通。  
+
+> Design is concerned with how things work, how they are controlled, and the nature of the interaction between people and technology.
+> Engineers are experts in technology & are trained to think logically; However, they are limited in their understanding of people.
+> Much of a product is designed by engineers; their designs are often too logical because they believe all people must think this way.
+
+设计是关乎人的。 而工程师，一般较多的关心逻辑。 
+
+> The paradox of technology.     The same technology that simplified life by providing more functions in each device also complicates life by making the device harder to learn or use. 
+
+一个悖论。  简单的东西，内部可能越复杂。  
 
 ## 32. []()
 
